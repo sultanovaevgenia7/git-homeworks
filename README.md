@@ -19,3 +19,16 @@
 5. Скриншот вывода команды `ls -laR` (нужно выполнить в консоли)
 6. ОС (версия и разрядность) - Windows, Mac, Linux, версия Git'а (`git --version`)
 7. zip-архив папки с вашим репо (если что-то не коммититься, не ищется и т.д.)
+
+Мы на столько крутые, что уже успели поработать со следующими команиями:
+
+1. ООО «Рога и копыта»
+1. Издательство «Читый лист»
+1. Космопорт «Черезтерновый Кзвёздный»
+1. Дизайн-студия имени Слишком Известного Персонажа
+Ниже пример кода из нашего приложения:
+
+<pre>.<span class="pl-c1">selector</span> {
+  <span class="pl-c1">font-family</span><span class="pl-kos">:</span> <span class="pl-s">"Awesome"</span><span class="pl-kos">,</span> Arial<span class="pl-kos">,</span> sans-serif;
+  <span class="pl-c1">color</span><span class="pl-kos">:</span> red;
+}</pre>
